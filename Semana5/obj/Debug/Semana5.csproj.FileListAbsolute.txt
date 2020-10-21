@@ -1,0 +1,5 @@
+C:\Users\anton\Desktop\Torrico 5\Semana5\Semana5\obj\Debug\Semana5.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\Torrico 5\Semana5\Semana5\obj\Debug\MainWindow.g.cs
+C:\Users\anton\Desktop\Torrico 5\Semana5\Semana5\obj\Debug\App.g.cs
+C:\Users\anton\Desktop\Torrico 5\Semana5\Semana5\obj\Debug\Semana5_MarkupCompile.cache
+C:\Users\anton\Desktop\Torrico 5\Semana5\Semana5\obj\Debug\Semana5_MarkupCompile.lref

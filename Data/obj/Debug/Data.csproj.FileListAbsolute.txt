@@ -1,0 +1,2 @@
+C:\Users\anton\Desktop\Torrico 5\Semana5\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\anton\Desktop\Torrico 5\Semana5\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
